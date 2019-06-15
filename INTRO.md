@@ -1,1 +1,1 @@
-A short introduction about your team
+GM Informatics Joint Stock Company is the Turkey's biggest IT/ICT Managed Services Company in an operational way, because we believe in TRON ecosystem and have tokenized our company with GMC token in TRC10 codes.
