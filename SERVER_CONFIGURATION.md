@@ -1,1 +1,1 @@
-Describe your server configuration
+Describe your server configuration.
