@@ -2,7 +2,7 @@
   <br>
   <img width="40%" src="https://raw.githubusercontent.com/tron-explorer/docs/master/images/tron-banner.png">
   <br>
-  Tronscan Super Representative Template
+  Tronscan Super Representative
   <br>
 </h1>
 
